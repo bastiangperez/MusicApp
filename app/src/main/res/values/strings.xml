@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BGP_MusicPlayer</string>
+    <string name="app_title">BGP_MusicApp, tu música</string>
+    <string name="no_items">¡NO TIENE ARCHIVOS MP3 O WAV EN SU DISPOSITIVO. AÑADA AL MENOS UNO</string>
+</resources>
