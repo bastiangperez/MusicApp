@@ -1,4 +1,4 @@
-# MusicaAPP
+# MusicAPP
 
 ## What's This
 CalculaAPP is my first App using Android Studio and Java Language. A simple MusicPlayer that lists in a ListView all the .mp3 and .wav audios in your device. You can select a song and control it in different ways.
